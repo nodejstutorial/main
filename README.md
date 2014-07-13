@@ -4,12 +4,16 @@ Memento
 
 >git status
 
+>git add .
+
 >git commit -a -m ""
 
 >git push
 
 ====
-[quick hello world](https://github.com/nodejstutorial/main/blob/master/helloworld.js)
->878531d2c88fa78aaac167c5db77706ea493cf05
+[quick hello world](https://github.com/nodejstutorial/main/tree/master/01-helloworld)
+====
+[parallel tasks](https://github.com/nodejstutorial/main/tree/master/02-parallel)
+
 
 
