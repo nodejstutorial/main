@@ -8,7 +8,8 @@ fs.readFile('hello.txt', function(err,data) {
 
 // unlink doesn't delete the file, do you know why ?
 fs.unlink('letter.txt',function(err){
-  sys.puts('error deleting');
+  //sys.puts('error deleting');
+  //console.log(err);
 });
 
 fs.writeFile('letter.txt', 'hello world @' + new Date().getTime(), function() {
